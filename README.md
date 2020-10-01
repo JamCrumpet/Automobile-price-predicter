@@ -1,5 +1,5 @@
 # Automobile-price-predicter
-[UNFINITED]
+[UNFINISHED]
 This python code uses the sklearn library to create an AI the predicts the prices of vechicles /
 using given data via a liner regression model
 
